@@ -10,5 +10,5 @@ y = iris.data.targets
 # metadata
 print(iris.metadata)
 
-# variable information
+# variable informatio
 print(iris.variables)
